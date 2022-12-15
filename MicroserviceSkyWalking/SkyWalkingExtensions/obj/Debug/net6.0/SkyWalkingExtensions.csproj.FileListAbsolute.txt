@@ -1,0 +1,12 @@
+D:\练习\Microservice\MicroserviceSkyWalking\SkyWalkingExtensions\bin\Debug\net6.0\SkyWalkingExtensions.deps.json
+D:\练习\Microservice\MicroserviceSkyWalking\SkyWalkingExtensions\bin\Debug\net6.0\SkyWalkingExtensions.dll
+D:\练习\Microservice\MicroserviceSkyWalking\SkyWalkingExtensions\bin\Debug\net6.0\SkyWalkingExtensions.pdb
+D:\练习\Microservice\MicroserviceSkyWalking\SkyWalkingExtensions\obj\Debug\net6.0\SkyWalkingExtensions.csproj.AssemblyReference.cache
+D:\练习\Microservice\MicroserviceSkyWalking\SkyWalkingExtensions\obj\Debug\net6.0\SkyWalkingExtensions.GeneratedMSBuildEditorConfig.editorconfig
+D:\练习\Microservice\MicroserviceSkyWalking\SkyWalkingExtensions\obj\Debug\net6.0\SkyWalkingExtensions.AssemblyInfoInputs.cache
+D:\练习\Microservice\MicroserviceSkyWalking\SkyWalkingExtensions\obj\Debug\net6.0\SkyWalkingExtensions.AssemblyInfo.cs
+D:\练习\Microservice\MicroserviceSkyWalking\SkyWalkingExtensions\obj\Debug\net6.0\SkyWalkingExtensions.csproj.CoreCompileInputs.cache
+D:\练习\Microservice\MicroserviceSkyWalking\SkyWalkingExtensions\obj\Debug\net6.0\SkyWalkingExtensions.dll
+D:\练习\Microservice\MicroserviceSkyWalking\SkyWalkingExtensions\obj\Debug\net6.0\refint\SkyWalkingExtensions.dll
+D:\练习\Microservice\MicroserviceSkyWalking\SkyWalkingExtensions\obj\Debug\net6.0\SkyWalkingExtensions.pdb
+D:\练习\Microservice\MicroserviceSkyWalking\SkyWalkingExtensions\obj\Debug\net6.0\ref\SkyWalkingExtensions.dll

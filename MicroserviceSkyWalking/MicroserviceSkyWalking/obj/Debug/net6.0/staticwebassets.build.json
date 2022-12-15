@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "pZMUA9SRtB2OGvrP7XkWhJQBZtA4E8OVhxXlfuEMtXQ=",
+  "Source": "MicroserviceSkyWalking",
+  "BasePath": "_content/MicroserviceSkyWalking",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

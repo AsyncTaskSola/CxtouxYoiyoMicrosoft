@@ -1,0 +1,15 @@
+Consul start 
+
+ .\consul.exe agent -dev
+
+
+进入指定容器
+docker exec -it [容器id] /bin/bash
+
+cat 编辑
+
+
+
+安装vim
+apt-get update
+apt-get install vim
